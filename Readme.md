@@ -1,6 +1,6 @@
 # About
 
-This testing project handles testing of example todo application provided by Cypress at https://example.cypress.io/todo.
+This testing project handles testing of example application provided by Cypress.
 
 # Setup
 1. First install dependencies with ``yarn`` or ``npm install``.
